@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Test Plug-in</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.plexapp.agents.subdb</string>
+	<key>PlexAgentAttributionText</key>
+	<string>
+		&lt;a href=&quot;http://thesubdb.com/&quot;&gt;SubDB&lt;/a&gt; is a free, centralized subtitle database intended to be used only by opensource and non-commercial softwares.
+	</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>PlexFrameworkVersion</key>
+	<string>2</string>
+	<key>PlexPluginClass</key>
+	<string>Agent</string>
+	<key>PlexPluginMode</key>
+	<string>AlwaysOn</string>
+	<key>PlexPluginCodePolicy</key>
+	<string>Elevated</string>
+</dict>
+</plist>

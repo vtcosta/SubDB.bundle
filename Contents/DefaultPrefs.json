@@ -1,0 +1,28 @@
+[
+        {
+                "id": "langPref1",
+                "label": "Subtitle Language (1)",
+                "type": "enum",
+                "values": ["None", "nl","en","fr","it","pl","pt","ro","es","sv","tr"],
+                "default": "None"
+        },
+        {
+                "id": "langPref2",
+                "label": "Subtitle Language (2)",
+                "type": "enum",
+                "values": ["None","nl","en","fr","it","pl","pt","ro","es","sv","tr"],
+                "default": "None"
+        },
+        {
+        		"id": "saveNextToMedia",
+        		"label": "Save subtitle next to media",
+        		"type": "bool",
+        		"default": "false"
+        },
+        {
+        		"id": "overwriteNextToMedia",
+        		"label": "If saving next to media, overwrite local subtitle",
+        		"type": "bool",
+        		"default": "false"
+        }
+]
